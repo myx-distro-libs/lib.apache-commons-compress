@@ -1,0 +1,9 @@
+Type: ae3.Package
+Name: lib.apache-commons-compress
+Title: Library Wrapper: Apache Commons Compress
+Requires: lib.tukaani-xz-java
+Augments: 
+Suggests: 
+Declares: 
+Provides: lib.apache-commons-compress apache-commons-compress
+Replaces: 
