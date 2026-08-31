@@ -4,5 +4,5 @@ Requires: lib.tukaani-xz-java
 Augments: 
 Suggests: 
 Declares: 
-Provides: lib.apache-commons-compress apache-commons-compress
+Provides: lib.apache-commons-compress apache-commons-compress ae3.pkg.lib.util.apache-commons-compress source-process:ae3-packages export-classpath:java
 Replaces: 

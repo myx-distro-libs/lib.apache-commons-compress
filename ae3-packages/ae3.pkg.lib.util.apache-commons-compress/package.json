@@ -1,0 +1,6 @@
+{
+	name : 'ae3.pkg.lib.util.apache-commons-compress',
+	title : 'AE3 Library Wrapper: Apache Commons Compress (v1.12, Apache License 2.0)',
+	provides : 'ae3.pkg.lib.util.apache-commons-compress',
+	requires : 'java'
+}
